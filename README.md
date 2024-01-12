@@ -4,9 +4,10 @@
 
 In This Tutorial We cover the :- 
 
->> Bootstrao Forms 
->> Bootstrap Alerts
->> Bootstrap Buttons
->> Bootstrap Alerts
->> Bootstrap Table etc.
+- Bootstrap Buttons
+- Bootstrap Tables
+- Bootstrap Forms
+- Bootstrap Navbar
+- Bootstrap Grid & Containers
+- etc More
 
